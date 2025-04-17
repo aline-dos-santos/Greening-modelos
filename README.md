@@ -52,7 +52,7 @@ No notebook `tutorial_treinamento_yolov9.ipynb`, você encontrará:
 
 ---
 
-## 👨‍🔬 Autor
+## Autores
 
 Projeto desenvolvido por Aline dos Santos, com orientação de Prof. Samuel Baraldi Mafra como parte de estudos no desenvolvimento de uma armadilha  multiculturas baseada em IoT e IA.
 

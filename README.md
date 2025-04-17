@@ -21,6 +21,10 @@ Foram treinados cinco modelos diferentes para comparação de desempenho:
 - YOLOv11
 - YOLOv12
 
+## Base de Dados
+
+A base de dados utilizada para o treinamento do modelo pode ser encontrada no [Roboflow: Base de Dados HLB](https://universe.roboflow.com/pragas/base-de-dados-hlb/dataset/18).
+
 ## 🥇 Melhor Modelo: YOLOv9
 
 Após o processo de treinamento e avaliação, o modelo **YOLOv9** obteve os **melhores resultados de precisão e desempenho geral**, superando as demais versões. Por isso, **foi o escolhido como base para o tutorial de uso**.

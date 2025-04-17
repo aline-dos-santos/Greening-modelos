@@ -1,3 +1,15 @@
+# 🧠 Projeto de Visão Computacional - Detecção do Psilídeo do Citros
+
+Este projeto tem como objetivo aplicar técnicas de **visão computacional** para detectar o **psilídeo do citros (_Diaphorina citri_)**, inseto vetor da doença **Greening (HLB)**, utilizando **arquiteturas da família YOLO**.
+
+## 📦 Estrutura do Projeto
+
+O modelo foi treinado para detectar **três classes**, que representam os **estágios de vida do inseto**:
+
+- 🥚 **Ovos**
+- 🐛 **Ninfas**
+- 🪲 **Adulto**
+
 
 ## Modelos Utilizados
 

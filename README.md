@@ -6,9 +6,9 @@ Este projeto tem como objetivo aplicar técnicas de **visão computacional** par
 
 O modelo foi treinado para detectar **três classes**, que representam os **estágios de vida do inseto**:
 
-- 🥚 **Ovos**
-- 🐛 **Ninfas**
-- 🪲 **Adulto**
+-  **Ovos**
+-  **Ninfas**
+-  **Adulto**
 
 
 ## Modelos Utilizados
